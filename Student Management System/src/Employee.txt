@@ -1,0 +1,24 @@
+Employee Data
+-------------
+
+Name: Alice Smith
+Age: 35
+Address: 12 Green Street, Dallas
+Employee ID: E2001
+Role: Teaching
+Salary: 55000
+------------------------
+Name: Robert Johnson
+Age: 42
+Address: 90 King Road, Miami
+Employee ID: E2002
+Role: Non-Teaching
+Salary: 40000
+------------------------
+Name: Priya Patel
+Age: 29
+Address: 33 Hill View, Seattles
+Employee ID: E2003
+Role: Teaching
+Salary: 48000
+------------------------
