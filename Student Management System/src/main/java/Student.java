@@ -41,6 +41,6 @@ public class Student extends Person {
       return super.toString() +
        " Student ID: " + studentId + "\n"+
        " Class Level: " + classLevel + "\n"+
-       " Latest GPA: " + latestGPA;
+       " Latest GPA: " + latestGPA+"\n";
     }
 }

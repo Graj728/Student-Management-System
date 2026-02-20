@@ -29,7 +29,7 @@ abstract  class Person {
     }
     @Override
     public String toString() {
-        return "Name: " + name + "\n"
+        return "\nName: " + name + "\n"
         +" Age: " + age +"\n"
         + " Address: " + address;
     }
